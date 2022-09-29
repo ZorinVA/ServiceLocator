@@ -1,0 +1,11 @@
+{
+  "name": "com.zorinva.servicelocator",
+  "displayName": "ServiceLocator",
+  "version": "0.1.9",
+  "unity": "2021.3",
+  "author": "ZorinVA",
+  "description": "Servicelocator",
+  "keywords": [
+    "Locator"
+  ]
+}
